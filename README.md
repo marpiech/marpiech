@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Marcin Piechota @marpiech
-- 
+- :briefcase: CTO of Intelliseq
+- :briefcase: PhD in Medical Biology, MSc Interdepartmental Maths and Nature studies, BSc Computer Science
 - 👀 I’m interested in Genomics, Genome Data Analysis and Cloud Native technologies
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piechota dot marcin at gmail com
 
-[![My Skills](https://skills.thijs.gg/icons?git,md,java,py,r,mysql,postgres,docker,kubernetes,prometheus,grafana)](https://skills.thijs.gg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original-wordmark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+</div>
 
 <!---
 marpiech/marpiech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
