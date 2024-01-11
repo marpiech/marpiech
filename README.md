@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcin Piechota @marpiech
+- Marcin Piechota @marpiech
 - :man_in_tuxedo: CTO of Intelliseq
 - :student: PhD in Medical Biology, MSc Interdepartmental Maths and Nature studies, BSc Computer Science
 - :mag_right: I’m interested in Genomics, Genome Data Analysis and Cloud Native technologies
